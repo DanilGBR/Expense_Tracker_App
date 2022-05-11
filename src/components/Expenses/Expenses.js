@@ -11,8 +11,8 @@ const Expenses = (props) => {
 
   return (
     <div>
-      <ExpenseFilter onDateSelect={dateFilterSelectHandler} />
       <Card className='expenses'>
+        <ExpenseFilter onDateSelect={dateFilterSelectHandler} />
         <ExpenseItem
           title={props.expenses[0].title}
           amount={props.expenses[0].amount}
