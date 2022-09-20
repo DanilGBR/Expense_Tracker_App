@@ -10,6 +10,6 @@
 * child -> parent communication
 * conditional content output
 * CSS set dynamically
- 
- ![image](https://user-images.githubusercontent.com/92997295/191190656-dc7357b2-dd22-421b-9b28-69665c985015.png)
+
+![image](https://user-images.githubusercontent.com/92997295/191190946-4cfd1e14-652e-40ae-9ac7-08ce5b2c423f.png)
 
